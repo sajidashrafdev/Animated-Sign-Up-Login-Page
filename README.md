@@ -1,26 +1,8 @@
-\# 🎨 Animated Sign Up \& Login Page  
+# 🎨 Animated Sign Up \& Login Page  
 
 
 
-A modern, responsive \*\*Sign Up \& Login Page\*\* built with \*\*HTML, CSS, and JavaScript\*\*, featuring smooth animations, social icons, and toggle functionality.  
-
-
-
----
-
-
-
-\## 🚀 Features  
-
-\- ✨ Beautiful animated transitions between \*\*Sign In\*\* and \*\*Sign Up\*\*  
-
-\- 📱 Fully responsive design for all devices  
-
-\- 🔒 Password \& email input fields  
-
-\- 🌐 Social media login buttons (Google, Facebook, GitHub, LinkedIn)  
-
-\- 🎨 Custom color picker to change theme color dynamically  
+A modern, responsive **Sign Up \& Login Page** built with **HTML, CSS, and JavaScript**, featuring smooth animations, social icons, and toggle functionality.  
 
 
 
@@ -28,15 +10,17 @@ A modern, responsive \*\*Sign Up \& Login Page\*\* built with \*\*HTML, CSS, and
 
 
 
-\## 🛠️ Technologies Used  
+## 🚀 Features  
 
-\- \*\*HTML5\*\*  
+- ✨ Beautiful animated transitions between **Sign In** and **Sign Up**  
 
-\- \*\*CSS3 (Flexbox \& Animation)\*\*  
+- 📱 Fully responsive design for all devices  
 
-\- \*\*JavaScript (DOM manipulation)\*\*  
+- 🔒 Password \& email input fields  
 
-\- \[Font Awesome 6.4.2](https://cdnjs.com/libraries/font-awesome) for icons  
+- 🌐 Social media login buttons (Google, Facebook, GitHub, LinkedIn)  
+
+- 🎨 Custom color picker to change theme color dynamically  
 
 
 
@@ -44,7 +28,23 @@ A modern, responsive \*\*Sign Up \& Login Page\*\* built with \*\*HTML, CSS, and
 
 
 
-\## 📂 Project Structure  
+## 🛠️ Technologies Used  
+
+- **HTML5**  
+
+- **CSS3 (Flexbox \& Animation)**  
+
+- **JavaScript (DOM manipulation)**  
+
+- [Font Awesome 6.4.2](https://cdnjs.com/libraries/font-awesome) for icons  
+
+
+
+---
+
+
+
+## 📂 Project Structure  
 
 📦 Animated-Login-Signup-Page
 
@@ -68,9 +68,9 @@ Copy code
 
 
 
-\## ⚡ How to Use  
+## ⚡ How to Use  
 
-1\. Clone this repository:  
+1. Clone this repository:  
 
 &nbsp;  ```bash
 
